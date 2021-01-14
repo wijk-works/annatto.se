@@ -17,7 +17,11 @@
 {{ end }}
 
 <div class="text-gray-500 text-xs text-center mb-5">
-  &copy; 2021 Wijk Works AB {{ range .Site.Menus.footer }}
+  &copy; 2021
+  <a href="https://wijk.works" target="_blank" rel="noreferrer noopener"
+    >Wijk Works AB</a
+  >
+  {{ range .Site.Menus.footer }}
   <span>&#183;</span>
   <a href="{{ .URL }}">
     {{ .Pre }}
