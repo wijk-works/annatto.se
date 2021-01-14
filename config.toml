@@ -1,0 +1,12 @@
+baseURL = "https://www.annatto.se/"
+languageCode = "sv-se"
+title = "annatto - Färgstark webbyrå."
+theme = "hugo-theme-tailwindcss-starter"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpored = false
+
+[build]
+  writeStats = true
