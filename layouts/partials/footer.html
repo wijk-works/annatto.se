@@ -1,0 +1,27 @@
+{{ if .Site.Menus.main }}
+<div class="mb-5 p-5 bg-gray-50 border border-grey-900 rounded">
+  <div class="uppercase mb-3 sm:hidden text-sm font-semibold">Meny</div>
+  <ul
+    class="sm:flex max-w-4xl mx-auto space-y-2 sm:space-y-0 sm:space-x-5 sm:pr-5 justify-center"
+  >
+    {{ range .Site.Menus.main }}
+    <li>
+      <a href="{{ .URL }}">
+        {{ .Pre }}
+        <span>{{ .Name }}</span>
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}
+
+<div class="text-gray-500 text-xs text-center mb-5">
+  &copy; 2021 Wijk Works AB {{ range .Site.Menus.footer }}
+  <span>&#183;</span>
+  <a href="{{ .URL }}">
+    {{ .Pre }}
+    <span>{{ .Name }}</span>
+  </a>
+  {{ end }}
+</div>
