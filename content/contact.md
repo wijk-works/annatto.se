@@ -7,7 +7,7 @@ menu:
     weight: 5
 ---
 
-Hör av dig med dina önskemål eller funderingar. Vi hjälper dig!
+Hör av er med era önskemål eller funderingar. Vi hjälper er!
 
 Mail\
 hej@annatto.se
