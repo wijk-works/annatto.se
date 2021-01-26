@@ -8,7 +8,7 @@ menu:
 
 ## Färgstark webbyrå.
 
-Vi är en okomplicerad och vänlig webbyrå som gärna hjälper er ordna en ny fräsch hemsida, bygger den där briljanta webbappen ni gått och grunnat på eller spinner ihop en webbutik för era hemma-stickade sockor.
+Vi är en okomplicerad och vänlig webbyrå som gärna hjälper er ordna en ny fräsch hemsida eller bygger den där briljanta webbappen ni gått och grunnat på.
 
 Kontakta oss på hej@annatto.se så tar vi det därifrån. Det behöver inte vara mer komplicerat än så.
 

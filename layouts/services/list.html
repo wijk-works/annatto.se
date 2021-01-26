@@ -1,0 +1,31 @@
+{{ define "main" }}
+  <article class="prose lg:prose-xl">
+    <h1 class="border-l-2 border-red-700 pl-2">{{ .Title }}</h1>
+
+    {{ .Content }}
+
+    <hr />
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-4">
+      {{- range $i, $page := .Pages }}
+        {{- if (gt $i 0) }}
+          <hr class="block sm:hidden" />
+        {{- end }}
+
+        {{- with $page }}
+          <a href="{{ .RelPermalink }}">
+            <div class="text-center">
+              <figure>
+                <img
+                  src="{{ .Params.image.url }}"
+                  alt="{{ .Params.image.alt }}"
+                />
+              </figure>
+              <h2>{{ .Title }}</h2>
+            </div>
+          </a>
+        {{- end }}
+      {{- end }}
+    </div>
+  </article>
+{{ end }}

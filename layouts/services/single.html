@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <article class="prose lg:prose-xl">
+    <h1 class="border-l-2 border-red-700 pl-2">{{ .Title }}</h1>
+
+    <figure class="max-w-md mx-auto">
+      <img src="{{ .Params.image.url }}" alt="{{ .Params.image.alt }}" />
+      <figcaption>
+        <p>{{ .Params.image.caption }}</p>
+      </figcaption>
+    </figure>
+
+    {{ .Content }}
+
+    <a href="{{ .Parent.RelPermalink }}">&lt; Tillbaka till Tjänster</a>
+  </article>
+{{ end }}
