@@ -10,7 +10,9 @@ menu:
 
 Vi är en okomplicerad och vänlig webbyrå som gärna hjälper er ordna en ny fräsch hemsida eller bygger den där spännande webbappen ni gått och grunnat på.
 
-Vi erbjuder alltid fast pris på hemsidor och tim- eller projektpris på webbapplikationer. Kontakta oss på hej@annatto.se så tar vi det därifrån.
+Vi erbjuder alltid fast pris på hemsidor och tim- eller projektpris på webbapplikationer.
+
+{{< button title="Kontakta oss" url="/contact/" align="text-center" >}}
 
 ### Våra tjänster
 
