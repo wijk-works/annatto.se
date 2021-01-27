@@ -8,20 +8,22 @@ menu:
 
 ## Färgstark webbyrå.
 
-Vi är en okomplicerad och vänlig webbyrå som gärna hjälper er ordna en ny fräsch hemsida eller bygger den där briljanta webbappen ni gått och grunnat på.
+Vi är en okomplicerad och vänlig webbyrå som gärna hjälper er ordna en ny fräsch hemsida eller bygger den där spännande webbappen ni gått och grunnat på.
 
-Kontakta oss på hej@annatto.se så tar vi det därifrån. Det behöver inte vara mer komplicerat än så.
+Vi erbjuder alltid fast pris på hemsidor och tim- eller projektpris på webbapplikationer. Kontakta oss på hej@annatto.se så tar vi det därifrån.
 
 ### Våra tjänster
 
-Kort och gott jobbar vi inom tre områden. Läs mer om dessa under [Tjänster](/services/).
+#### Hemsidor
 
-- Design
-- Utveckling
-- Drift
+Det är lätt man går överstyr med hemsidor idag eftersom tekniken och våra datorer och mobiler är så kraftfulla. Vi försöker hitta en balans i detta överflöd av animationer och notiser som skriker efter uppmärksamhet.
 
-### Visste du att...
+Därför skapar vi hemsidor som kombinerar bra layout och design med enkelhet och användarvänlighet. Allt med fokus på ert innehåll och budskap.
 
-Annatto är ett derivat från annattoträdet, som huvudsakligen växer i Amerikas tropiska regioner och som används för att producera färgämnen och smaktillsats. Det produceras från det rödaktiga fruktkött som omger fröna och används i många ostar, till exempel cheddar, red leicester och brie och även i livsmedel som margarin, smör, ris och rökt fisk.
+#### Webbapplikationer
 
-Den nyfikne kan läsa mer på [Wikipedia](https://sv.wikipedia.org/wiki/Annatto).
+I samma anda som ovan skapar vi webbapplikationer med fokus på enkelhet och användarvänlighet. Det ska inte behövas en bruksanvisning på femhundra sidor för att komma igång.
+
+Vi väljer teknik och bestämmer arkitektur baserat på er applikation. Inte för mycket och inte för lite. Lagom helt enkelt.
+
+Läs mer under [Tjänster](/services/).
