@@ -8,17 +8,15 @@ menu:
 
 ## Färgstark webbyrå.
 
-Vi är en okomplicerad och vänlig webbyrå som gärna hjälper er ordna en ny fräsch hemsida eller bygger den där spännande webbappen ni gått och grunnat på.
+Vi är en okomplicerad webbyrå som gärna hjälper er ordna en ny fräsch hemsida eller bygger den där spännande webbappen ni gått och grunnat på. Alltid till ett fast pris.
 
-Vi erbjuder alltid fast pris på hemsidor och tim- eller projektpris på webbapplikationer.
-
-{{< button title="Kontakta oss" url="/contact/" align="text-center" >}}
+{{< button title="Kontakta oss" url="/contact/" class="text-center" >}}
 
 ### Våra tjänster
 
 #### Hemsidor
 
-Det är lätt man går överstyr med hemsidor idag eftersom tekniken och våra datorer och mobiler är så kraftfulla. Vi försöker hitta en balans i detta överflöd av animationer och notiser som skriker efter uppmärksamhet.
+Det är lätt man går överstyr med hemsidor idag eftersom tekniken och våra datorer och mobiler är så kraftfulla. Vi försöker hitta en balans i detta överflöd av animationer och annat som skriker efter uppmärksamhet.
 
 Därför skapar vi hemsidor som kombinerar bra layout och design med enkelhet och användarvänlighet. Allt med fokus på ert innehåll och budskap.
 
